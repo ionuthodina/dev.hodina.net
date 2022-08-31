@@ -43,3 +43,7 @@ But to fail at the first stage of the interview because you didn't know how to c
 ### My advice
 Keep coding for fun on these platforms, but realize that the skills acquired are just a small subset of developer experience.
 
+
+
+
+*Notes: The cover image is just for reference. The post is not complaining about a specific platform. It states an opinion about measuring correctly candidate skills. There are dozens of platforms that offer this service for tech companies and all use the same concept.*
