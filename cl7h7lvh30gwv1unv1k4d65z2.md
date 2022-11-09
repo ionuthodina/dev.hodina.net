@@ -1,4 +1,4 @@
-## The questionable value and the real frustration of interview coding tests
+# The questionable value and the real frustration of interview coding tests
 
 ### Disclaimer
 First and foremost, I want to clarify that I love solving short programming assessments. It's fun and I can improve and refresh my knowledge about data structures and algorithms. I compare it to playing chess. It's entertaining to focus on the game and find better and better solutions over time. In fact, in the last few months, I spent many days solving coding puzzles on CodinGame and I learned a lot. The issue appears when I realize that my career path should not be influenced by how fast I can solve one of those.
@@ -47,3 +47,5 @@ Keep coding for fun on these platforms, but realize that the skills acquired are
 
 
 *Notes: The cover image is just for reference. The post is not complaining about a specific platform. It states an opinion about measuring correctly candidate skills. There are dozens of platforms that offer this service for tech companies and all use the same concept.*
+
+**UPDATE**: I had to solve again the annoying puzzle😁. Check out the new [article](https://dev.hodina.net/re-how-to-not-clean-json-file-in-c)!
