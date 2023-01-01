@@ -80,7 +80,7 @@ private static long GetMod(long number)
 
 ### Voilà
 
-With just a few basic formulas we have an elegant solution 🤩. Don't just copy-paste this and let your future employer where you got inspiration from, 😏!
+With just a few basic formulas we have an elegant solution 🤩. Don't just copy-paste this and let your future employer know where you got inspiration from, 😏!
 
 Did you find a better solution? Please let me know💡.
 
