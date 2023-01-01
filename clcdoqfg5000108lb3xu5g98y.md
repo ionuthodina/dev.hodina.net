@@ -1,4 +1,4 @@
-# Given 2 big numbers, what is their modulus?
+# Given 2 big numbers, what is the modulus?
 
 ### Intro
 
