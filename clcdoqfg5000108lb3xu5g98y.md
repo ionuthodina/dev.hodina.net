@@ -8,7 +8,7 @@ I received this puzzle in one of my interview coding assignments, and I particul
 
 Indeed, I don't remember exactly the statement as I forgot to save it, but lucky enough, I have the code and can reverse engineer it! 😎
 
-> Given a number N, and a list of integers numbers a\[0\],.., a\[N-1\], calculate the index *i* of the highest modulus between a\[i\] raised power to a\[i+1\] and 1 000 000 007. The formula is as follows:
+> Given a number N, and a list of integers a\[0\],.., a\[N-1\], calculate the index *i* of the highest modulus between a\[i\] raised power to a\[i+1\] and 1 000 000 007. The formula is as follows:
 
 ```csharp
 result[i] = (a[i]^a[i+1]) % (10^9 + 7)
