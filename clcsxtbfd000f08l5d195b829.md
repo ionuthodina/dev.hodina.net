@@ -2,7 +2,7 @@
 
 ### To the hype and beyond
 
-Everybody talks about the possibilities we will have by integrating ChatGPT into different parts of our digital world. I wanted to share with you a better-informed opinion from someone I trust, that understands what are the implications and some of the practical use cases in the software development field.
+Everybody talks about the possibilities we will have by integrating ChatGPT into different parts of our digital world. I want to share with you a better-informed opinion from someone I trust, that understands what are the implications and some of the practical use cases in the software development field.
 
 ### The opinion
 
